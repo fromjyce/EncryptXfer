@@ -39,8 +39,8 @@ To run the application, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/secure-file-transfer.git
-   cd secure-file-transfer
+   git clone https://github.com/fromjyce/EncryptXfer.git encryptxfer
+   cd encryptxfer
    ```
 
 2. Install the required dependencies:
@@ -67,3 +67,19 @@ To upload a file:
 
 To download a file:
 - Use the download command and specify the file name.
+
+## Running the Project
+
+The programs have been tested on the Visual Studio Code IDE in Windows 11. You are free to choose any IDE that suits your needs.
+
+## Contact
+
+If you have any questions, suggestions, or feedback regarding the portfolio website, please feel free to contact me at `jaya2004kra@gmail.com`. I welcome any input that can help me improve the site.
+
+## License
+
+All the code in this repository is licensed under the GNU GENERAL PUBLIC License. You are free to use and modify it for educational purposes. However, I do not take any responsibility for the accuracy or reliability of the code.
+
+## My Social Profiles:
+
+- [**LINKEDIN**](https://www.linkedin.com/in/jayashrek/)
